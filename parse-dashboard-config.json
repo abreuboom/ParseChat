@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "serverURL": "https://blooming-thicket-89345.herokuapp.com/parse",
+      "appId": "parseChatID",
+      "masterKey": "bniqv43y56789yq0nqb3boq40",
+      "appName": "ParseChat"
+    }
+  ]
+}
